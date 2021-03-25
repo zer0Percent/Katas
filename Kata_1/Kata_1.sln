@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata_1", "Kata_1\Kata_1.csproj", "{2B1EF719-21C9-48E1-8488-7680CA523323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PressureTests", "PressureTests\PressureTests.csproj", "{F2BDAE7C-20CA-45E0-B761-7BD99AC573EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B1EF719-21C9-48E1-8488-7680CA523323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1EF719-21C9-48E1-8488-7680CA523323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1EF719-21C9-48E1-8488-7680CA523323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1EF719-21C9-48E1-8488-7680CA523323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2BDAE7C-20CA-45E0-B761-7BD99AC573EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BDAE7C-20CA-45E0-B761-7BD99AC573EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BDAE7C-20CA-45E0-B761-7BD99AC573EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BDAE7C-20CA-45E0-B761-7BD99AC573EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B992DA-9743-4F8B-99AE-2D7BADE664DA}
+	EndGlobalSection
+EndGlobal

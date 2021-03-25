@@ -1,0 +1,12 @@
+D:\otros\Katas\Kata_1\Kata_1\bin\Debug\netcoreapp3.1\Kata_1.exe
+D:\otros\Katas\Kata_1\Kata_1\bin\Debug\netcoreapp3.1\Kata_1.deps.json
+D:\otros\Katas\Kata_1\Kata_1\bin\Debug\netcoreapp3.1\Kata_1.runtimeconfig.json
+D:\otros\Katas\Kata_1\Kata_1\bin\Debug\netcoreapp3.1\Kata_1.runtimeconfig.dev.json
+D:\otros\Katas\Kata_1\Kata_1\bin\Debug\netcoreapp3.1\Kata_1.dll
+D:\otros\Katas\Kata_1\Kata_1\bin\Debug\netcoreapp3.1\Kata_1.pdb
+D:\otros\Katas\Kata_1\Kata_1\obj\Debug\netcoreapp3.1\Kata_1.AssemblyInfoInputs.cache
+D:\otros\Katas\Kata_1\Kata_1\obj\Debug\netcoreapp3.1\Kata_1.AssemblyInfo.cs
+D:\otros\Katas\Kata_1\Kata_1\obj\Debug\netcoreapp3.1\Kata_1.csproj.CoreCompileInputs.cache
+D:\otros\Katas\Kata_1\Kata_1\obj\Debug\netcoreapp3.1\Kata_1.dll
+D:\otros\Katas\Kata_1\Kata_1\obj\Debug\netcoreapp3.1\Kata_1.pdb
+D:\otros\Katas\Kata_1\Kata_1\obj\Debug\netcoreapp3.1\Kata_1.genruntimeconfig.cache
